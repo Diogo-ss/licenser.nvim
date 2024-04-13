@@ -32,7 +32,6 @@ use {
 
 ```lua
 {
-return {
   "Diogo-ss/licenser.nvim",
   cmd = { "Licenser" },
   opts = {
